@@ -1,3 +1,7 @@
+---
+title: Homepage
+layout: default
+---
 # This is my _Title_
 
-Welcome to my GH Pages site!
+Welcome to my GitHub Pages site!
