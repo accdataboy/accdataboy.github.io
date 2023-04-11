@@ -10,6 +10,9 @@ Welcome to my GitHub Pages site!
 
 This is for any updates.
 
+- This month:
+  1. School
+  1. Work
 - Next month:
   1. Work
   1. Play
